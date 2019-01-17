@@ -1,0 +1,77 @@
+Technische Universit?t Berlin
+Stra?e des 17. Juni 135
+10623 Berlin
++49£¨0£©30 314-26003
++49£¨0£©30 314-29655
+daniela.wroblewski@tu-berlin.de
+Master
+Chen
+Andemen Stra?e No.57, Nanjing, China, 210012
+Jiangsu, China
+14/09/1992
+China
+Wissenschaftlicher Mitarbeiter f¨¹r die Entwicklung fortschrittlicher Big Data-Reinigungsmethoden.
+3500
+15.03.2019
+15.03.2022
+
+
+Chen
+Binger
+14/09/1992
+Jiangsu, China
+China
+China
+EA7176032
+12/07/2017
+11/07/2017
+Andemen Stra?e No.57
+210012 Nanjing
+binger.chen914@outlook.com
++8618651896364
++8618651896364
+Chen
+Xiaobing
+12/02/1968, Zhejiang
+China
+Hujing Garden 9-101, Nanjing, China
+Li
+Mengqi
+14/03/1966, Anhui
+China
+Hujing Garden 9-101, Nanjing, China
+Landesamt f¨¹r B¨¹rger- und Ordnungsangelegenheiten - Ausl?nderbeh?rde -, Friedrich-Krause-Ufer 23-25
+13356 Berlin
+Forschungsassistent f¨¹r die Entwicklung fortschrittlicher Big Data-Reinigungsmethoden.
+Wissenschaftlicher Mitarbeiter
+Arbeitsverh?ltnis
+
+
+
+Dear Prof. Dr. Abedjan,
+
+I see what you mean. Actually synthetic errors is a backup plan since I haven¡¯t yet found a public dataset with perfect errors suitable for this scenario. But this conclusion only comes from my theoretical analysis. I need to make further experiment.
+
+I have thought of some solutions to this:
+1.There¡¯re some datasets I found that contain real errors but without notations, I plan to label them with semi-automatic methods.
+2.As I said, to those datasets with labeled errors, I need further experiment to prove their availability to our scenario.
+3.I¡¯ll keep looking for appropriate datasets. For example, we are currently planing to attend some data processing competitions at Samsung. The organizer provided plenty of real datasets from the industry on its website. Maybe we can find some clues there.
+4.If possible, I think we can collect some data by ourselves. For example, deploying Raspberry Pi and sensors in a building or vehicle to collect real data. It¡¯s not very difficult to implement.
+
+And if you have any suggestions or data sources that can be shared with me, it will be very helpful.
+
+About my name, Chen is my family name, sorry it¡¯s a little confusing in our culture we usually put the family name in the front. But actually I prefer to be called by my given name Binger, because Chen is an extremely common family name here, it¡¯s easy to be confused with other people. Given name is more recognizable, so you don¡¯t need to change.
+
+Sincerely,
+Chen Binger
+
+
+
+
+according to the documents available to us, you do not possess German citizenship.
+Your entry into the territory of the Federal Republic of Germany for the purpose of gainful employment is therefore dependent on the granting of a residence permit for aliens (not for citizens of the member states of the European Union and the EEA states who are exempted from vested rights and have a certificate of residency 5 para. 1 Freedom of Movement Act / EU is issued).
+We kindly ask you to obtain a residence permit by submitting your passport and this letter to the German embassy or consulate responsible in your home country (embassy or consulate).
+
+After approval of the immigration office responsible for your intended place of residence (Berlin), the
+
+the German diplomatic mission will grant the required residence permit (visa or residence permit) in accordance with ¡ì 4 of the Residence Act and permit the intended gainful employment, provided that nothing prevents this.
